@@ -57,18 +57,8 @@ try:
             f"http://www.insecam.org/en/bycountry/{country}/?page={page}",
             headers=headers
         )
-        find_ip = re.findall(r"http://\d+.\d+.\d+.\d+:\d+", res.text)
-    
-        with open(f'{country}.txt', 'w') as f:
-          for ip in find_ip:
-              print("")
-              print("\033[1;31m", ip)
-              f.write(f'{ip}\n')
+        find_ip = re.findall(r"http://\d+.\d+.\d+.\d+:\d+", res.text)            
+        for ip in find_ip:
+            print("\033[1;31m\n", ip)
 except:
     pass
-finally:
-    print("\033[1;37m")
-    print('\033[37mSave File :'+country+'.txt')
-
-    exit()
-
