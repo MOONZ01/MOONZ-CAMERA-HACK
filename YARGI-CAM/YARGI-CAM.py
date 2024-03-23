@@ -28,6 +28,11 @@ print("""
 ░░░██║░░░██║░░██║██║░░██║╚██████╔╝██║
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═╝
 \033[1;31m                                    YARGI \033[1;31m\033[1;37m""")
+
+for key, value in countries.items():
+    print(f'Code : ({key}) - {value["country"]} / ({value["count"]})  ')
+    print("")
+
 print("--------------------------------------------")
 
 print("     ")
@@ -37,11 +42,6 @@ print("     ")
 print("EX FOR United States, INPUT= US; ")
 print("     ")
 print("--------------------------------------------")
-for key, value in countries.items():
-    print(f'Code : ({key}) - {value["country"]} / ({value["count"]})  ')
-    print("")
-
-
 
 try:
    
