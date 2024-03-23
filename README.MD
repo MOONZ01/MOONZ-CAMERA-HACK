@@ -12,6 +12,6 @@
 
 * pip install colorama
 
-* pip install random
+* pip install random2
 
 * python3 YARGI-CAM.py
