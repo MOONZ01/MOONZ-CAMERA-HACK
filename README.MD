@@ -12,4 +12,4 @@
 
 * pip install random
 
-* python3 cam-hackers.py
+* python3 YARGI-CAM.py
