@@ -6,6 +6,8 @@
 
 * cd YARGI-CAM
 
+* cd YARGI-CAM
+
 * pip install requests
 
 * pip install colorama
