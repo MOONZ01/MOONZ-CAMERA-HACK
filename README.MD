@@ -51,7 +51,7 @@
 
 * pacman -S python-colorama
 
-*pacman -S python-random2
+* pacman -S python-random2
 
 * git clone https://github.com/yargi100k/YARGI-CAM
 
