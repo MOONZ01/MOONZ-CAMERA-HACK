@@ -1,4 +1,4 @@
---TERMUX INSTALALL--
+* TERMUX INSTALALL *
 * apt-get install python3
 
 * apt-get install git
@@ -17,7 +17,7 @@
 
 * python3 YARGI-CAM.py
 
---KALI LINUX INSTALL--
+* KALI LINUX INSTALL *
 
 * sudo apt install python3
 
@@ -39,7 +39,7 @@
 
 * python3 YARGI-CAM.py
 
---BLACK ARCH LINUX INSTALL--
+* BLACK ARCH LINUX INSTALL *
 
 * sudo pacman -Syu
 
