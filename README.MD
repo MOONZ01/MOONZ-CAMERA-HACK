@@ -55,8 +55,8 @@
 
 * git clone https://github.com/yargi100k/YARGI-CAM
 
-*cd YARGI-CAM
+* cd YARGI-CAM
 
-*cd YARGI-CAM
+* cd YARGI-CAM
 
-*python YARGI-CAM.py
+* python YARGI-CAM.py
