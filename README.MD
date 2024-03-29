@@ -27,11 +27,7 @@
 
 * cd YARGI-CAM
 
-* pip install requests
-
-* pip install colorama
-
-* pip install random2
+* pip install -r "requirements.txt"
 
 * python3 YARGI-CAM.py
 
