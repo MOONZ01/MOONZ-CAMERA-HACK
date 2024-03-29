@@ -1,0 +1,4 @@
+colorama 
+random2
+requests
+keyboard
