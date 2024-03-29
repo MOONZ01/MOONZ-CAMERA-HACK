@@ -52,3 +52,8 @@
 * cd YARGI-CAM
 
 * python YARGI-CAM.py
+
+
+--WINDOWS INSTALL--
+
+RUN: YARGI-CAM/YARGI-CAM/Run.bat
