@@ -2,7 +2,7 @@
 import requests, re , colorama ,random
 from requests.structures import CaseInsensitiveDict
 colorama.init()
-
+import keyboard
 url = "http://www.insecam.org/en/jsoncountries/"
 
 headers = CaseInsensitiveDict()
@@ -60,5 +60,19 @@ try:
         find_ip = re.findall(r"http://\d+.\d+.\d+.\d+:\d+", res.text)            
         for ip in find_ip:
             print("\033[1;31m\n", ip)
+            
 except:
     pass
+
+print("  ")
+print("  ")
+print("  ")
+
+def main():
+    print("Press ESC to exit")
+    keyboard.wait("esc")
+
+    print("Exit()")
+
+if __name__ == "__main__":
+    main()
