@@ -5,13 +5,13 @@
 
 * git clone https://github.com/yargi100k/YARGI-CAM
 
-* cd YARGI-CAM
+* cd MOONZ-CAMERA-HACK
 
 * cd YARGI-CAM
 
 * pip install -r "requirements.txt"
 
-* python3 YARGI-CAM.py
+* python3 MOONZ-CAM.py
 
 --KALI LINUX INSTALL--
 
@@ -23,13 +23,13 @@
 
 * git clone https://github.com/yargi100k/YARGI-CAM
 
-* cd YARGI-CAM
+* cd MOONZ-CAMERA-HACK
 
 * cd YARGI-CAM
 
 * pip install -r "requirements.txt"
 
-* python3 YARGI-CAM.py
+* python3 MOONZ-CAM.py
 
 --BLACK ARCH LINUX INSTALL--
 
@@ -49,13 +49,13 @@
 
 * git clone https://github.com/yargi100k/YARGI-CAM
 
-* cd YARGI-CAM
+* cd MOONZ-CAMERA-HACK
 
 * cd YARGI-CAM
 
-* python YARGI-CAM.py
+* python MOONZ-CAM.py
 
 
 --WINDOWS INSTALL--
 
-RUN: YARGI-CAM/YARGI-CAM/Run.bat
+RUN: MOONZ-CAMERA-HACK/YARGI-CAM/Run.bat
