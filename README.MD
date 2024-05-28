@@ -29,7 +29,7 @@
 
 * pip install -r "requirements.txt"
 
-* python3 MOONZ-CAM.py
+* python3 YARGI-CAM.py
 
 --BLACK ARCH LINUX INSTALL--
 
@@ -45,17 +45,15 @@
 
 * pacman -S python-random2
 
-* pacman -S python-keyboard
+* git clone https://github.com/yargi100k/YARGI-CAMERA-HACK
 
-* git clone https://github.com/yargi100k/YARGI-CAM
-
-* cd MOONZ-CAMERA-HACK
+* cd YARGI-CAMERA-HACK
 
 * cd YARGI-CAM
 
-* python MOONZ-CAM.py
+* python YARGI-CAM.py
 
 
 --WINDOWS INSTALL--
 
-RUN: MOONZ-CAMERA-HACK/YARGI-CAM/Run.bat
+RUN: YARGI-CAMERA-HACK/YARGI-CAM/Run.bat
