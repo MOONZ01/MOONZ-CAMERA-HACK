@@ -3,15 +3,15 @@
 
 * apt-get install git
 
-* git clone https://github.com/yargi100k/YARGI-CAM
+* git clone https://github.com/yargi100k/YARGI-CAMERA-HACK
 
-* cd MOONZ-CAMERA-HACK
+* cd YARGI-CAMERA-HACK
 
 * cd YARGI-CAM
 
 * pip install -r "requirements.txt"
 
-* python3 MOONZ-CAM.py
+* python3 YARGI-CAM.py
 
 --KALI LINUX INSTALL--
 
@@ -21,9 +21,9 @@
 
 * sudo apt install git
 
-* git clone https://github.com/yargi100k/YARGI-CAM
+* git clone https://github.com/yargi100k/YARGI-CAMERA-HACK 
 
-* cd MOONZ-CAMERA-HACK
+* cd YARGI-CAMERA-HACK
 
 * cd YARGI-CAM
 
