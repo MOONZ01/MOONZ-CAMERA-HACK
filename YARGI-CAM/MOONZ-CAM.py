@@ -2,7 +2,6 @@
 import requests, re , colorama ,random
 from requests.structures import CaseInsensitiveDict
 colorama.init()
-import keyboard
 url = "http://www.insecam.org/en/jsoncountries/"
 
 headers = CaseInsensitiveDict()
@@ -71,11 +70,7 @@ print("  ")
 print("  ")
 print("  ")
 
-def main():
-    print("Press ESC to exit")
-    keyboard.wait("esc")
-
-    print("Exit()")
+exit()
 
 if __name__ == "__main__":
     main()
