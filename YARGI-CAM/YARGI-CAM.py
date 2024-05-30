@@ -6,7 +6,7 @@ colorama.init()
 url = "http://www.insecam.org/en/jsoncountries/"
 
 headers = CaseInsensitiveDict()
-headers["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/s>
+headers["Accept"] = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3><=b3;q=0.7"
 headers["Cache-Control"] = "max-age=0"
 headers["Connection"] = "keep-alive"
 headers["Host"] = "www.insecam.org"
